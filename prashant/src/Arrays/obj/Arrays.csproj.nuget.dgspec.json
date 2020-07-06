@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\work\\personal\\github\\leet-code\\prashant\\src\\leetcode\\Arrays\\Arrays.csproj": {}
+    "C:\\work\\personal\\github\\leet-code\\prashant\\src\\Arrays\\Arrays.csproj": {}
   },
   "projects": {
-    "C:\\work\\personal\\github\\leet-code\\prashant\\src\\leetcode\\Arrays\\Arrays.csproj": {
+    "C:\\work\\personal\\github\\leet-code\\prashant\\src\\Arrays\\Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\work\\personal\\github\\leet-code\\prashant\\src\\leetcode\\Arrays\\Arrays.csproj",
+        "projectUniqueName": "C:\\work\\personal\\github\\leet-code\\prashant\\src\\Arrays\\Arrays.csproj",
         "projectName": "Arrays",
-        "projectPath": "C:\\work\\personal\\github\\leet-code\\prashant\\src\\leetcode\\Arrays\\Arrays.csproj",
+        "projectPath": "C:\\work\\personal\\github\\leet-code\\prashant\\src\\Arrays\\Arrays.csproj",
         "packagesPath": "C:\\Users\\prashant.kawade\\.nuget\\packages\\",
-        "outputPath": "C:\\work\\personal\\github\\leet-code\\prashant\\src\\leetcode\\Arrays\\obj\\",
+        "outputPath": "C:\\work\\personal\\github\\leet-code\\prashant\\src\\Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prashant.kawade\\AppData\\Roaming\\NuGet\\NuGet.Config",
